@@ -1,4 +1,5 @@
 # Parabank E2E Test Automation (Selenium + Cucumber BDD)
+[![Parabank Automation Tests](https://github.com/LahatArmy/parabank-selenium-cucumber-bdd/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/LahatArmy/parabank-selenium-cucumber-bdd/actions/workflows/ci-tests.yml)
 
 Automated end-to-end UI testing framework for **Parabank** built with **Java**, **Selenium 4**, **Cucumber BDD**, and **JUnit 5**, integrated with **GitHub Actions** for continuous testing.
 
